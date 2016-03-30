@@ -18,7 +18,7 @@
 - Stylus
 - Jade
 
-## Data
+## Data (Not implemented - testing locally)
 
 - Postgresql (JSON)
 - Redis (cache)
