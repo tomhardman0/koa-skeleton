@@ -1,5 +1,7 @@
 # Koa Skeleton [![Build Status](https://travis-ci.org/tomhardman0/koa-skeleton.svg?branch=master)](https://travis-ci.org/tomhardman0/koa-skeleton)
 
+**N.B.** Koa is moving to async/await over generators in v2 so this repo is stalling a little...
+
 ## Server
 
 - Koa
